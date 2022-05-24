@@ -25,7 +25,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
-
+![Preview PetShop](https://user-images.githubusercontent.com/89936463/170110976-1a01d80e-0add-4ba6-a3ef-86fca1196942.JPG)
 
 <br>
 <br>
